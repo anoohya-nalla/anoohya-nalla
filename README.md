@@ -3,11 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anoohya+Nalla!;" />
 </h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="./assets/Profile.svg">
-
-<br/>
+<div align="center">
+<img alt="Coding" width="400" src="./assets/Profile.svg">
+</div>
 
 <div align="center">
 
@@ -49,11 +50,11 @@
 <br>
 <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoohya-nalla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anoohya-nalla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoohya-nalla&count_private=true&theme=react&border_radius=10" alt="streak stats"/> />
+<img src="https://github-readme-stats.vercel.app/api?username=anoohya-nalla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoohya-nalla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anoohya-nalla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
