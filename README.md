@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anoohya+Nalla!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🪄 A driven frontend wizard, blending passion with pixels.</h3>
+<p align="center">(∩^o^)⊃━☆.*･｡ﾟ</p>
 
 <div align="center">
 <img alt="Coding" width="400" src="./assets/Profile.svg">
@@ -39,8 +40,8 @@
 <br/>
 <!-- add languages -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui,typescript,java,python,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,mongodb,androidstudio,vscode,git,github,figma" /><br>
 </div>
 
 <br/>
