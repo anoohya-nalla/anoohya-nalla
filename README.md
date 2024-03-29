@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning **React, React Native**
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w0gXK4WmIuA1_XSwFWlXsCVIuoYJlbhh/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JzSA5_IdKe0izMI-vFF-OC6G3U5dSa-f/view?usp=sharing)
 
 ⚡ Fun fact **I am an artist**
 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!--add portfolio -->
-  <a href="" target="_blank">
+  <a href="https://anoohya-nalla.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
