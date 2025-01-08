@@ -15,9 +15,9 @@
 
 🔭 I’m currently working on **E-commerce web app**
 
-🌱 I’m currently learning **React, React Native**
+🌱 I’m currently learning **Next.js, Node.js**
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JzSA5_IdKe0izMI-vFF-OC6G3U5dSa-f/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bDILaq3WJISfql2uBglvZzF_o1svrEAw/view?usp=sharing)
 
 ⚡ Fun fact **I am an artist**
 
