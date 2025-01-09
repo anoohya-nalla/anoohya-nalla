@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anoohya+Nalla!;" />
 </h1>
 
-<h3 align="center">🪄 A driven frontend wizard, blending passion with pixels.</h3>
+<h3 align="center">🪄 A full-stack wizard, casting spells from code to creation.</h3>
 <p align="center">(∩^o^)⊃━☆.*･｡ﾟ</p>
 
 <div align="center">
